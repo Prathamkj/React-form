@@ -1,0 +1,7 @@
+@import "tailwindcss";
+/* importing TailwindCss */
+
+body{
+  background-color: #696363;
+  
+}
